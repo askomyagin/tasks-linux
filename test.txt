@@ -1,1 +1,2 @@
+/bin/cat --version
 /bin/cat --help

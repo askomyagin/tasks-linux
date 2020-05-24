@@ -1,3 +1,10 @@
+cat (GNU coreutils) 8.28
+Copyright (C) 2017 Free Software Foundation, Inc.
+Лицензия GPLv3+: GNU GPL версии 3 или новее <http://gnu.org/licenses/gpl.html>
+Это свободное ПО: вы можете изменять и распространять его.
+Нет НИКАКИХ ГАРАНТИЙ до степени, разрешённой законом.
+
+Авторы программы -- Torbjorn Granlund и Richard M. Stallman.
 Использование: /bin/cat [КЛЮЧ]… [ФАЙЛ]…
 Печатает слияние ФАЙЛ(ов) на стандартный вывод.
 
